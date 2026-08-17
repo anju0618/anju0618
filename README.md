@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F4ACB7&center=true&vCenter=true&width=520&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%81%82%E3%82%93%E3%81%98%E3%82%85%E3%81%A7%E3%81%99+%F0%9F%91%8B;Hi%2C+I'm+Anju+%F0%9F%91%8B;42Tokyo+%2F+Data+%26+ML+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F4ACB7&center=true&vCenter=true&width=520&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%81%82%E3%82%93%E3%81%98%E3%82%85%E3%81%A7%E3%81%99+%F0%9F%91%8B;Hi%2C+I'm+Anjou+%F0%9F%91%8B;42Tokyo+%2F+Data+%26+ML+enthusiast" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=anju0618&label=Profile%20Views&color=F4ACB7&style=for-the-badge" alt="profile views" />
 
@@ -11,9 +11,9 @@
 ## 💻 About Me / 自己紹介
 
 - 🏫 **42Tokyo** でC言語・アルゴリズム・ネットワーク・サーバー構築などを学習中
-- 📊 **データ分析 / 機械学習** にも興味があり、Kaggleとか挑戦したい
+- 📊 **データ分析 / 機械学習** にも興味があり、Kaggleや自主プロジェクトに取り組んでいます
 - 📍 Based in **Tokyo, Japan**
-- ✏️ *ねむい*
+- ねむい
 
 <!--
 🏫 Studying C, algorithms, networking, and server administration at **42Tokyo**
@@ -65,12 +65,17 @@
 | [ft_printf](https://github.com/anju0618/ft_printf) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | `printf` を自作で再現する課題 |
 | [ft_get_next_line](https://github.com/anju0618/ft_get_next_line) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | ファイルディスクリプタから1行ずつ読み込む関数を実装 |
 | [push_swap](https://github.com/anju0618/push_swap) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | 最小手数でスタックをソートするアルゴリズム課題 |
-| [codexion](https://github.com/anju0618/codexion) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | ✏️ *(説明を追加してください)* |
+| [codexion](https://github.com/anju0618/codexion) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | ✏️ pthread課題 |
 | [Born2Beroot](https://github.com/anju0618/Born2Beroot) | ![Shell](https://img.shields.io/badge/-Sysadmin-F4ACB7?style=flat-square&labelColor=181717) | Linuxサーバーの構築・設定を学ぶ課題 |
 | [NetPractice](https://github.com/anju0618/NetPractice) | ![Network](https://img.shields.io/badge/-Network-F4ACB7?style=flat-square&labelColor=181717) | ネットワーク設定(IP/サブネット)を学ぶ課題 |
 | [exam_rank02_practice](https://github.com/anju0618/exam_rank02_practice) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | Exam Rank02 対策コード |
 | [exam_rank03_practice-python-](https://github.com/anju0618/exam_rank03_practice-python-) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Exam Rank03 対策コード |
 | [42_exam_rank04_simulator_python](https://github.com/anju0618/42_exam_rank04_simulator_python) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Exam Rank04 対策シミュレーター |
+| [RAG-against-the-machine](https://github.com/anju0618/RAG-against-the-machine) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | RAG構築 |
+| [a_maizing](https://github.com/anju0618/a_maizing) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | 迷路メーカー |
+| [Pacman](https://github.com/anju0618/Pacman) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Pythonで作ったPacman風ゲーム課題 |
+| [call_me_maybe](https://github.com/anju0618/call_me_maybe) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | LLM課題 |
+| [Fly-in](https://github.com/anju0618/Fly-in) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | グラフ理論を用いたアルゴリズム |
 
 </details>
 
@@ -89,13 +94,8 @@
 | [Noise_Analysis_Project](https://github.com/anju0618/Noise_Analysis_Project) | ![R](https://img.shields.io/badge/-R-F4ACB7?style=flat-square&labelColor=181717) | Rによるノイズデータの分析プロジェクト |
 | [Financial-Data-Analysis](https://github.com/anju0618/Financial-Data-Analysis) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | 金融データの分析プロジェクト |
 | [Economic-Data-Analysis-R](https://github.com/anju0618/Economic-Data-Analysis-R) | ![R](https://img.shields.io/badge/-R-F4ACB7?style=flat-square&labelColor=181717) | Rによる経済データの分析プロジェクト |
-| [Reports](https://github.com/anju0618/Reports) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | ✏️ *(説明を追加してください)* |
-| [RAG-against-the-machine](https://github.com/anju0618/RAG-against-the-machine) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | ✏️ *(説明を追加してください — RAG関連の個人プロジェクト?)* |
+| [Reports](https://github.com/anju0618/Reports) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | 適当 |
 | [python_module00-10](https://github.com/anju0618/python_module00-10) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Python学習課題(module00〜10) |
-| [a_maizing](https://github.com/anju0618/a_maizing) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | ✏️ *(説明を追加してください)* |
-| [Pacman](https://github.com/anju0618/Pacman) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Pythonで作ったPacman風ゲーム |
-| [call_me_maybe](https://github.com/anju0618/call_me_maybe) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | ✏️ *(説明を追加してください)* |
-| [Fly-in](https://github.com/anju0618/Fly-in) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | ✏️ *(説明を追加してください)* |
 
 </details>
 
