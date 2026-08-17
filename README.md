@@ -58,24 +58,52 @@
 <summary>クリックして開閉 / click to toggle</summary>
 <br>
 
+**🏊 Piscine**
+
 | Project | Language | About |
 |---|---|---|
 | [42_Piscine](https://github.com/anju0618/42_Piscine) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | 42の選考課題「Piscine」の課題群 |
+
+**Circle 0**
+
+| Project | Language | About |
+|---|---|---|
 | [libft](https://github.com/anju0618/libft) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | 標準Cライブラリ関数を再実装する自作ライブラリ |
+
+**Circle 1**
+
+| Project | Language | About |
+|---|---|---|
+| [push_swap](https://github.com/anju0618/push_swap) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | 最小手数でスタックをソートするアルゴリズム課題 |
 | [ft_printf](https://github.com/anju0618/ft_printf) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | `printf` を自作で再現する課題 |
 | [ft_get_next_line](https://github.com/anju0618/ft_get_next_line) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | ファイルディスクリプタから1行ずつ読み込む関数を実装 |
-| [push_swap](https://github.com/anju0618/push_swap) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | 最小手数でスタックをソートするアルゴリズム課題 |
-| [codexion](https://github.com/anju0618/codexion) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | ✏️ pthread課題 |
-| [Born2Beroot](https://github.com/anju0618/Born2Beroot) | ![Shell](https://img.shields.io/badge/-Sysadmin-F4ACB7?style=flat-square&labelColor=181717) | Linuxサーバーの構築・設定を学ぶ課題 |
-| [NetPractice](https://github.com/anju0618/NetPractice) | ![Network](https://img.shields.io/badge/-Network-F4ACB7?style=flat-square&labelColor=181717) | ネットワーク設定(IP/サブネット)を学ぶ課題 |
+
+**Circle 2**
+
+| Project | Language | About |
+|---|---|---|
 | [exam_rank02_practice](https://github.com/anju0618/exam_rank02_practice) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | Exam Rank02 対策コード |
-| [exam_rank03_practice-python-](https://github.com/anju0618/exam_rank03_practice-python-) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Exam Rank03 対策コード |
-| [42_exam_rank04_simulator_python](https://github.com/anju0618/42_exam_rank04_simulator_python) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Exam Rank04 対策シミュレーター |
-| [RAG-against-the-machine](https://github.com/anju0618/RAG-against-the-machine) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | RAG構築 |
+| [python_module00-10](https://github.com/anju0618/python_module00-10) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Python学習課題(module00〜10) |
 | [a_maizing](https://github.com/anju0618/a_maizing) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | 迷路メーカー |
-| [Pacman](https://github.com/anju0618/Pacman) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Pythonで作ったPacman風ゲーム課題 |
-| [call_me_maybe](https://github.com/anju0618/call_me_maybe) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | LLM課題 |
+| [Born2Beroot](https://github.com/anju0618/Born2Beroot) | ![Shell](https://img.shields.io/badge/-Sysadmin-F4ACB7?style=flat-square&labelColor=181717) | Linuxサーバーの構築・設定を学ぶ課題 |
+
+**Circle 3**
+
+| Project | Language | About |
+|---|---|---|
 | [Fly-in](https://github.com/anju0618/Fly-in) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | グラフ理論を用いたアルゴリズム |
+| [codexion](https://github.com/anju0618/codexion) | ![C](https://img.shields.io/badge/-C-F4ACB7?style=flat-square&labelColor=181717) | pthread課題 |
+| [exam_rank03_practice-python-](https://github.com/anju0618/exam_rank03_practice-python-) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Exam Rank03 対策コード |
+| [call_me_maybe](https://github.com/anju0618/call_me_maybe) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | LLM課題 |
+
+**Circle 4**
+
+| Project | Language | About |
+|---|---|---|
+| [RAG-against-the-machine](https://github.com/anju0618/RAG-against-the-machine) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | RAG構築 |
+| [NetPractice](https://github.com/anju0618/NetPractice) | ![Network](https://img.shields.io/badge/-Network-F4ACB7?style=flat-square&labelColor=181717) | ネットワーク設定(IP/サブネット)を学ぶ課題 |
+| [Pacman](https://github.com/anju0618/Pacman) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Pythonで作ったPacman風ゲーム課題 |
+| [42_exam_rank04_simulator_python](https://github.com/anju0618/42_exam_rank04_simulator_python) | ![Python](https://img.shields.io/badge/-Python-F4ACB7?style=flat-square&labelColor=181717) | Exam Rank04 対策シミュレーター |
 
 </details>
 
