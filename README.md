@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC6E0,35:B5E8FF,70:FFE59A,100:FFC6E0&height=210&section=header&text=anjou0618&fontColor=2B3A55&fontSize=54&fontAlignY=36&animation=fadeIn&desc=42Tokyo%20%2F%2F%20NOOT%20NOOT&descAlignY=60&descSize=20" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&weight=400&size=26&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;42Tokyo+%2F%2F+Data+%26+ML+Engineer;NOOT+NOOT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&weight=400&size=26&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;42Tokyo;NOOT+NOOT" alt="Typing SVG" />
 
 <br>
 
