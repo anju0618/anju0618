@@ -77,7 +77,7 @@
 <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=anju0618&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=FF6FB5&icon_color=6EC8FF&text_color=2B3A55&ring_color=FF9EBB" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=anju0618&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&title_color=FF6FB5&text_color=2B3A55&langs_count=8" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anju0618&hide_border=true&background=00000000&ring=FF9EBB&fire=FFD166&currStreakLabel=FF6FB5&sideLabels=2B3A55&currStreakNum=2B3A55&sideNums=2B3A55&dates=999999" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=anju0618&hide_border=true&background=00000000&ring=FF9EBB&fire=FFD166&currStreakLabel=FF6FB5&sideLabels=2B3A55&currStreakNum=2B3A55&sideNums=2B3A55&dates=999999" alt="GitHub Streak" />
 
 <br><br>
 
@@ -86,10 +86,12 @@
 </div>
 
 <!--
-NOTE: 公式の github-readme-stats.vercel.app が停止中 (503 DEPLOYMENT_PAUSED) のため、
-コミュニティミラー (rickstaa氏のフォーク) を暫定利用しています。
-表示が崩れた場合は自分の Vercel アカウントに github-readme-stats をデプロイして
-URL を差し替えるのが最も安定です: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+NOTE: 公式の github-readme-stats.vercel.app / github-readme-streak-stats.herokuapp.com は
+停止中のため、コミュニティミラー (rickstaa氏のフォーク / streak-stats.demolab.com) を暫定利用しています。
+どちらも共有インスタンスなので GitHub API のレート制限で稀に一時的に表示が崩れることがあります。
+表示が崩れた場合は自分のアカウントに各リポジトリをデプロイして URL を差し替えるのが最も安定です:
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+https://github.com/DenverCoder1/github-readme-streak-stats#deploy-your-own-instance-recommended
 -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFE59A,50:B5E8FF,100:FFC6E0&height=6" />
