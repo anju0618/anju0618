@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC6E0,35:B5E8FF,70:FFE59A,100:FFC6E0&height=210&section=header&text=anjou0618&fontColor=2B3A55&fontSize=54&fontAlignY=36&animation=fadeIn&desc=%F0%9F%90%A7%20Pingu%20lover%20%2F%2F%20NOOT%20NOOT%20%E2%9D%84%EF%B8%8F&descAlignY=60&descSize=20" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC6E0,35:B5E8FF,70:FFE59A,100:FFC6E0&height=210&section=header&text=anjou0618&fontColor=2B3A55&fontSize=54&fontAlignY=36&animation=fadeIn&desc=42Tokyo%20%2F%2F%20NOOT%20NOOT%20%E2%9D%84%EF%B8%8F&descAlignY=60&descSize=20" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&weight=400&size=26&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%F0%9F%8D%A6;%E3%83%94%E3%83%B3%E3%82%B0%E3%83%BC%E3%81%8C%E4%B8%96%E7%95%8C%E4%B8%80%E5%A5%BD%E3%81%8D%E2%9D%84%EF%B8%8F;42Tokyo+%2F%2F+Data+%26+ML+Engineer;NOOT+NOOT+%F0%9F%90%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+One&weight=400&size=26&pause=1000&color=FF6FB5&center=true&vCenter=true&width=650&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81+%F0%9F%8D%A6;42Tokyo+%2F%2F+Data+%26+ML+Engineer;NOOT+NOOT+%F0%9F%90%A7" alt="Typing SVG" />
 
 <br>
 
@@ -31,7 +31,6 @@
 - 📍 **base** : Tokyo, Japan
 - 🏫 **now studying** : C / アルゴリズム / ネットワーク / サーバー管理 @ 42Tokyo
 - 📊 **also into** : データ分析・機械学習 (Kaggle, 統計検定)
-- 🐧 **obsessed with** : **ピングーが世界一好き** (グッズも写真も無限に見れる)
 - 😴 **energy level** : ねむい〜！でも頑張る！
 
 </td>
