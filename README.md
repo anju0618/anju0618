@@ -9,6 +9,7 @@
 ![Status](https://img.shields.io/badge/status-online-FF9EBB?style=for-the-badge&labelColor=FFF6E9&logo=sparkles&logoColor=2B3A55)
 ![Location](https://img.shields.io/badge/location-tokyo%2C_japan-8ED1E8?style=for-the-badge&labelColor=FFF6E9&logo=googlemaps&logoColor=2B3A55)
 ![Node](https://img.shields.io/badge/school-42tokyo-FFD166?style=for-the-badge&labelColor=FFF6E9&logo=42&logoColor=2B3A55)
+![University](https://img.shields.io/badge/school-meiji_university-FFA9D6?style=for-the-badge&labelColor=FFF6E9&logo=googlescholar&logoColor=2B3A55)
 <img src="https://komarev.com/ghpvc/?username=anju0618&label=visitors&color=FF9EBB&style=for-the-badge&labelColor=FFF6E9" alt="profile views" />
 
 <br><br>
@@ -30,6 +31,7 @@
 - **name** : anjou0618
 - **base** : Tokyo, Japan
 - **now studying** : C / アルゴリズム / ネットワーク / サーバー管理 @ 42Tokyo
+- **also studying** : 明治大学 (Meiji University)
 - **also into** : データ分析・機械学習 (Kaggle, 統計検定)
 
 </td>
@@ -144,7 +146,6 @@ https://github.com/DenverCoder1/github-readme-streak-stats#deploy-your-own-insta
 |---|---|---|
 | [Fly-in](https://github.com/anju0618/Fly-in) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | グラフ理論を用いたアルゴリズム |
 | [codexion](https://github.com/anju0618/codexion) | ![C](https://img.shields.io/badge/-C-FF9EBB?style=flat-square&labelColor=FFF6E9) | pthread課題 |
-| [exam_rank03_practice-python-](https://github.com/anju0618/exam_rank03_practice-python-) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | Exam Rank03 対策コード |
 | [call_me_maybe](https://github.com/anju0618/call_me_maybe) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | LLM課題 |
 
 **Circle 4**
@@ -154,7 +155,17 @@ https://github.com/DenverCoder1/github-readme-streak-stats#deploy-your-own-insta
 | [RAG-against-the-machine](https://github.com/anju0618/RAG-against-the-machine) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | RAG構築 |
 | [NetPractice](https://github.com/anju0618/NetPractice) | ![Network](https://img.shields.io/badge/-Network-FFD166?style=flat-square&labelColor=FFF6E9) | ネットワーク設定(IP/サブネット)を学ぶ課題 |
 | [Pacman](https://github.com/anju0618/Pacman) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | Pythonで作ったPacman風ゲーム課題 |
-| [42_exam_rank04_simulator_python](https://github.com/anju0618/42_exam_rank04_simulator_python) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | Exam Rank04 対策シミュレーター |
+
+**Circle 5**
+
+| Project | Language | About |
+|---|---|---|
+| [42_python_exam](https://github.com/anju0618/42_python_exam) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | Exam Rank03〜06対策コードを一本化(元ネタのLeetCode問題も収録) |
+| [Agent_Smith](https://github.com/anju0618/Agent_Smith) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | MCPを用いたLLMエージェント課題 |
+| [Inception](https://github.com/anju0618/Inception) | ![Docker](https://img.shields.io/badge/-Docker-FFD166?style=flat-square&labelColor=FFF6E9) | Docker/Docker Composeで自作イメージからWebインフラを構築する課題 |
+| [42_Collaborative_resume](https://github.com/anju0618/42_Collaborative_resume) | ![Non-Technical](https://img.shields.io/badge/-Non--Technical-FFA9D6?style=flat-square&labelColor=FFF6E9) | 自己分析とレジュメ作成を行う非技術課題(ft_resume) |
+| [ft_transcendence](https://github.com/anju0618/ft_transcendence) | ![Web](https://img.shields.io/badge/-Web-FF9EBB?style=flat-square&labelColor=FFF6E9) | Common Core最終課題、チームでのWebアプリ開発 |
+| [The_Answer_Protocol](https://github.com/anju0618/The_Answer_Protocol) | ![Go](https://img.shields.io/badge/-Go-8ED1E8?style=flat-square&labelColor=FFF6E9) | 独自RFC準拠のMUD(サーバー/CLI/GUIクライアント)を実装するグループ課題 |
 
 </details>
 
@@ -175,6 +186,8 @@ https://github.com/DenverCoder1/github-readme-streak-stats#deploy-your-own-insta
 | [Economic-Data-Analysis-R](https://github.com/anju0618/Economic-Data-Analysis-R) | ![R](https://img.shields.io/badge/-R-FFD166?style=flat-square&labelColor=FFF6E9) | Rによる経済データの分析プロジェクト |
 | [Reports](https://github.com/anju0618/Reports) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | 適当 |
 | [python_module00-10](https://github.com/anju0618/python_module00-10) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | Python学習課題(module00〜10) |
+| [my_thesis_code](https://github.com/anju0618/my_thesis_code) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | 明治大学 卒業論文の実証分析コード(Random Forest・SHAPによる政治的信頼の分析) |
+| [Competitive_Programming](https://github.com/anju0618/Competitive_Programming) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | Pythonで競技プログラミングを練習する個人リポジトリ |
 
 </details>
 
