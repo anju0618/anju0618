@@ -9,6 +9,7 @@
 ![Status](https://img.shields.io/badge/status-online-FF9EBB?style=for-the-badge&labelColor=FFF6E9&logo=sparkles&logoColor=2B3A55)
 ![Location](https://img.shields.io/badge/location-tokyo%2C_japan-8ED1E8?style=for-the-badge&labelColor=FFF6E9&logo=googlemaps&logoColor=2B3A55)
 ![Node](https://img.shields.io/badge/school-42tokyo-FFD166?style=for-the-badge&labelColor=FFF6E9&logo=42&logoColor=2B3A55)
+[![42 Intra](https://img.shields.io/badge/42_intra-amakino-8ED1E8?style=for-the-badge&labelColor=FFF6E9&logo=42&logoColor=2B3A55)](https://profile.intra.42.fr/users/amakino)
 ![University](https://img.shields.io/badge/school-meiji_university-FFA9D6?style=for-the-badge&labelColor=FFF6E9&logo=googlescholar&logoColor=2B3A55)
 <img src="https://komarev.com/ghpvc/?username=anju0618&label=visitors&color=FF9EBB&style=for-the-badge&labelColor=FFF6E9" alt="profile views" />
 
@@ -32,7 +33,7 @@
 - **base** : Tokyo, Japan
 - **now studying** : C / アルゴリズム / ネットワーク / サーバー管理 @ 42Tokyo
 - **also studying** : 明治大学 (Meiji University)
-- **also into** : データ分析・機械学習 (Kaggle, 統計検定)
+- **also into** : データ分析・機械学習 (Kaggle, G検定)
 
 </td>
 <td width="40%" align="center">
