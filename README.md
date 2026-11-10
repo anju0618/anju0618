@@ -22,23 +22,31 @@
 
 ## 42tokyo modules
 
-<details open>
-<summary>クリックして開閉 / click to toggle</summary>
-<br>
+### Common Core
 
-**Piscine**
+<details>
+<summary><b>Piscine</b></summary>
+<br>
 
 | Project | Language | About |
 |---|---|---|
 | [42_Piscine](https://github.com/anju0618/42_Piscine) | ![C](https://img.shields.io/badge/-C-FF9EBB?style=flat-square&labelColor=FFF6E9) | 42の選考課題「Piscine」の課題群 |
 
-**Circle 0**
+</details>
+
+<details>
+<summary><b>Circle 0</b></summary>
+<br>
 
 | Project | Language | About |
 |---|---|---|
 | [libft](https://github.com/anju0618/libft) | ![C](https://img.shields.io/badge/-C-FF9EBB?style=flat-square&labelColor=FFF6E9) | 標準Cライブラリ関数を再実装する自作ライブラリ |
 
-**Circle 1**
+</details>
+
+<details>
+<summary><b>Circle 1</b></summary>
+<br>
 
 | Project | Language | About |
 |---|---|---|
@@ -46,7 +54,11 @@
 | [ft_printf](https://github.com/anju0618/ft_printf) | ![C](https://img.shields.io/badge/-C-FF9EBB?style=flat-square&labelColor=FFF6E9) | `printf` を自作で再現する課題 |
 | [ft_get_next_line](https://github.com/anju0618/ft_get_next_line) | ![C](https://img.shields.io/badge/-C-FF9EBB?style=flat-square&labelColor=FFF6E9) | ファイルディスクリプタから1行ずつ読み込む関数を実装 |
 
-**Circle 2**
+</details>
+
+<details>
+<summary><b>Circle 2</b></summary>
+<br>
 
 | Project | Language | About |
 |---|---|---|
@@ -54,7 +66,11 @@
 | [a_maizing](https://github.com/anju0618/a_maizing) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | 迷路メーカー |
 | [Born2Beroot](https://github.com/anju0618/Born2Beroot) | ![Sysadmin](https://img.shields.io/badge/-Sysadmin-FFD166?style=flat-square&labelColor=FFF6E9) | Linuxサーバーの構築・設定を学ぶ課題 |
 
-**Circle 3**
+</details>
+
+<details>
+<summary><b>Circle 3</b></summary>
+<br>
 
 | Project | Language | About |
 |---|---|---|
@@ -62,7 +78,11 @@
 | [codexion](https://github.com/anju0618/codexion) | ![C](https://img.shields.io/badge/-C-FF9EBB?style=flat-square&labelColor=FFF6E9) | pthread課題 |
 | [call_me_maybe](https://github.com/anju0618/call_me_maybe) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | LLM課題 |
 
-**Circle 4**
+</details>
+
+<details>
+<summary><b>Circle 4</b></summary>
+<br>
 
 | Project | Language | About |
 |---|---|---|
@@ -70,7 +90,11 @@
 | [NetPractice](https://github.com/anju0618/NetPractice) | ![Network](https://img.shields.io/badge/-Network-FFD166?style=flat-square&labelColor=FFF6E9) | ネットワーク設定(IP/サブネット)を学ぶ課題 |
 | [Pacman](https://github.com/anju0618/Pacman) | ![Python](https://img.shields.io/badge/-Python-8ED1E8?style=flat-square&labelColor=FFF6E9) | Pythonで作ったPacman風ゲーム課題 |
 
-**Circle 5**
+</details>
+
+<details>
+<summary><b>Circle 5</b></summary>
+<br>
 
 | Project | Language | About |
 |---|---|---|
@@ -80,7 +104,15 @@
 | [The_Answer_Protocol](https://github.com/anju0618/The_Answer_Protocol) | ![Go](https://img.shields.io/badge/-Go-8ED1E8?style=flat-square&labelColor=FFF6E9) | 独自RFC準拠のMUD(サーバー/CLI/GUIクライアント)を実装するグループ課題 |
 | [Exam_Rank_06](https://github.com/anju0618/Exam_Rank_06) | ![C](https://img.shields.io/badge/-C-FF9EBB?style=flat-square&labelColor=FFF6E9) | Exam Rank 06 対策コード |
 
-**Beyond the Common Core**
+</details>
+
+<br>
+
+### Advanced
+
+<details open>
+<summary><b>Beyond the Common Core</b></summary>
+<br>
 
 | Project | Language | About |
 |---|---|---|
